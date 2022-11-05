@@ -58,3 +58,6 @@ text-indent: 0%;
 ul.va{
     list-style-type: circle;
 }
+.cak{
+    text-decoration: line-through;
+}
