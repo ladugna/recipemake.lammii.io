@@ -4,7 +4,8 @@
 
 
 body{
-    background-image: 
+    background-image:white
+    
 }
 h2,h3{
     color: #A4A400;
@@ -35,9 +36,7 @@ ul.section1{
     list-style-type: none;
    
 }
-u1.section11{
-   text-indent: right;
-}
+
 .cc{
     background-color: white;
     text-align: end;
